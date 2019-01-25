@@ -1,0 +1,7 @@
+com\lidia\dao\UserDaoImpl.class
+com\lidia\manager\UserManager.class
+com\lidia\dao\AbstractDao.class
+com\lidia\entity\UserEntity.class
+com\lidia\manager\UserManagerImpl.class
+com\lidia\dao\UserDao.class
+com\lidia\rest\UserService.class
